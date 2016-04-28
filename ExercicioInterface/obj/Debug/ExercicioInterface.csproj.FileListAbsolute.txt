@@ -1,0 +1,51 @@
+c:\users\20131011110380\documents\visual studio 2012\Projects\ExercicioInterface\ExercicioInterface\bin\Debug\ExercicioInterface.exe.config
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\bin\Debug\ExercicioInterface.exe.config
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\bin\Debug\ExercicioInterface.exe
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\bin\Debug\ExercicioInterface.pdb
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\ExercicioInterface.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\MainWindow.baml
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\CirculoWindow.g.cs
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\LojaVeiculoWindow.g.cs
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\NumeroComplexoWindow.g.cs
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\NumeroRacionalWindow.g.cs
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\ProgressaoMatematicaWindow.g.cs
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\App.g.cs
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\ExercicioInterface_MarkupCompile.cache
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\ExercicioInterface_MarkupCompile.lref
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\CirculoWindow.baml
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\LojaVeiculoWindow.baml
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\NumeroComplexoWindow.baml
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\NumeroRacionalWindow.baml
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\ProgressaoMatematicaWindow.baml
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\ExercicioInterface.g.resources
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\ExercicioInterface.Properties.Resources.resources
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\ExercicioInterface.csproj.GenerateResource.Cache
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\ExercicioInterface.exe
+C:\Users\Daniel Souza\workspace\POS\ExercicioInterface\ExercicioInterface\ExercicioInterface\obj\Debug\ExercicioInterface.pdb
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\ExercicioInterface.csprojResolveAssemblyReference.cache
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\MainWindow.baml
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\CirculoWindow.g.cs
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\LojaVeiculoWindow.g.cs
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\MainWindow.g.cs
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\NumeroComplexoWindow.g.cs
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\NumeroRacionalWindow.g.cs
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\ProgressaoMatematicaWindow.g.cs
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\ExerciciosString.g.cs
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\App.g.cs
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\ExercicioInterface_MarkupCompile.cache
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\ExercicioInterface_MarkupCompile.lref
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\bin\Debug\ExercicioInterface.exe.config
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\bin\Debug\ExercicioInterface.exe
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\bin\Debug\ExercicioInterface.pdb
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\CirculoWindow.baml
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\LojaVeiculoWindow.baml
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\NumeroComplexoWindow.baml
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\NumeroRacionalWindow.baml
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\ProgressaoMatematicaWindow.baml
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\ExerciciosString.baml
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\ExercicioInterface.g.resources
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\ExercicioInterface.Properties.Resources.resources
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\ExercicioInterface.csproj.GenerateResource.Cache
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\ExercicioInterface.exe
+C:\Users\navi\Desktop\daniel\lista01-master\lista01-master\ExercicioInterface\obj\Debug\ExercicioInterface.pdb

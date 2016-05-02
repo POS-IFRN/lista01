@@ -19,10 +19,10 @@ namespace ExercicioInterface
                 throw new ArgumentException("O número de elementos não pode ser menor ou igual a 0!");
             for (int i = 1; i <= n; i++)
             {
-                if (geometrica) elementos[i] = pElemento * Convert.ToInt16(Math.Pow(razao, i - 1));
+                if (geometrica) elementos[i-1] = pElemento * Convert.ToInt16(Math.Pow(razao, i - 1));
                 else
                 {
-                    elementos[i] = pElemento + i * razao;
+                    elementos[i-1] = pElemento + (i-1) * razao;
                 }
             }
 
